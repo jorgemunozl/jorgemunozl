@@ -4,8 +4,8 @@
 
 I’m deeply passionate about STEM and computer science. I love combining **mathematics** with **programming** to solve complex problems and build creative solutions.
 
-* 🌱 I’m currently exploring diffusion models, reinforcement learning, and other machine learning techniques.
-* 👯 I’m open to collaborating on physics-oriented programming projects.
+* 🌱 I’m currently exploring vision models, reinforcement learning, and other machine learning techniques.
+* 👯 I’m open to collaborating on anything jeje.
 * 🤔 I enjoy deep thinking and theoretical challenges as much as hands‑on coding.
 
 ## 💻 Languages & Libraries
