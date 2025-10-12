@@ -21,7 +21,6 @@ I’m deeply passionate about STEM and computer science. I love combining **math
 
 ## 🔬 Research & Projects
 
-* **Diffusion Models** — experimenting with generative modeling for images and scientific data.
 * **Reinforcement Learning** — building agents to solve decision‑making tasks.
 * **Physics Programming** — simulations and numeric methods in Python & C++.
 
