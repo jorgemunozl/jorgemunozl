@@ -2,28 +2,29 @@
 
 ## 🔭 About Me
 
-I’m deeply passionate about STEM and computer science. I love combining **mathematics** with **programming** to solve complex problems and build creative solutions.
+I’m deeply passionate about STEM and computer science. I love combining **mathematics|physics** with **programming** to solve complex problems and build creative solutions.
 
-* 🌱 I’m currently exploring vision models, reinforcement learning, and other machine learning techniques.
-* 👯 I’m open to collaborating on anything jeje.
+* 🌱 I’m currently exploring AI4Science.
+* 👯 I’m open to collaborating on Science related project.
 * 🤔 I enjoy deep thinking and theoretical challenges as much as hands‑on coding.
 
 ## 💻 Languages & Libraries
 
 * **Languages:** Python, C++, MATLAB
-* **Libraries & Frameworks:**
+* **Libraries & Frameworks:** PhysicsNemo, PyTorch
 
-  * **Machine Learning & AI:** PyTorch, TensorFlow, scikit‑learn
-  * **Generative & Diffusion:** Hugging Face Diffusers
+  * **Machine Learning & AI:** 
+  * **Generative:** Hugging Face Transformers 
   * **Reinforcement Learning:** Stable Baselines3, custom RL environments
-  * **Tooling & Integration:** LangChain, LangGraph
-* **Other Tools:** Git & GitHub, Jupyter Notebooks, VS Code
+  * **Tooling & Integration:** LangGraph
+* **Other Tools:** Git & GitHub, Jupyter Notebooks, VS Code Tunnels
 
 ## 🔬 Research & Projects
 
-* **Reinforcement Learning** — building agents to solve decision‑making tasks.
+* **Reinforcement Learning** — building agents to solve decision‑making tasks using Quantum Circuits. OpenAI Gym
 * **Physics Programming** — simulations and numeric methods in Python & C++.
-
+* **Physics Informed Neural Operators (PINO)**
+* **Forecasting Methods for Climate**
 ## 📫 How to Reach Me
 
 * GitHub: [github.com/jorgemunozl](https://github.com/jorgemunozl)
