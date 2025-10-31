@@ -4,7 +4,7 @@
 
 I like STEM, adore a [Feynman a-like thinking](https://archive.org/details/surely-you-re-joking-mister-feynman-richard-feynman/page/10/mode/2up) . I don't disgust combining **mathematics** with **programming** to solve any kind of problems, modeling, abstract and **get fun**. (Duh).
 
-<a> <img src="image-1.png" alt="Feynman and the bongos" width="120" align="right"/> </a>
+<a> <img src="feynman-bongos.jpg" alt="Feynman and the bongos" width="120" align="right"/> </a>
 * 🌱 I’m currently exploring [Neural Operators and variants](https://camlab-ethz.github.io/ai4s-course/)
 * 🤔 I enjoy think and *theoretical* challenges as much as hands‑on coding. 
 * ♟️ I *love/hate* chess. [Let's play a game!](https://link.chess.com/profile).
@@ -12,7 +12,7 @@ I like STEM, adore a [Feynman a-like thinking](https://archive.org/details/surel
 * 🐧 Linux User : [Arch - I3](https://github.com/jorgemunozl/arch-i3-setup.git), Ubuntu Xorg.
 * 🔮 Obsessed with the note-taking [Zettelkasten method](https://www.youtube.com/watch?v=E6ySG7xYgjY).
 
-Richard Feynman playing the bongos, physicist have rythm too! ->
+Richard Feynman playing the bongos, the most clever person that this world have ever known ! ->
 
 ## 💻 Languages & Libraries
 
