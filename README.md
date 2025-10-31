@@ -7,7 +7,7 @@ I like STEM, adore a [Feynman a-like thinking](https://archive.org/details/surel
 <a> <img src="feynman-bongos.jpg" alt="Feynman and the bongos" width="120" align="right"/> </a>
 * 🌱 I’m currently exploring [Neural Operators and variants](https://camlab-ethz.github.io/ai4s-course/)
 * 🤔 I enjoy think and *theoretical* challenges as much as hands‑on coding. 
-* ♟️ I *love/hate* chess. [Let's play a game!](https://link.chess.com/profile).
+* ♟️ I *love/hate* chess. [Let's play a game!](https://www.chess.com/member/jorgemunozl).
 * 🍅 *Pomodoro Lover* [(Strongly Recommended)](https://www.youtube.com/watch?v=sUwD3GRPJos)
 * 🐧 Linux User : [Arch - I3](https://github.com/jorgemunozl/arch-i3-setup.git), Ubuntu Xorg.
 * 🔮 Obsessed with the note-taking [Zettelkasten method](https://www.youtube.com/watch?v=E6ySG7xYgjY).
