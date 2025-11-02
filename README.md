@@ -32,7 +32,6 @@ Richard Feynman playing the bongos, the most clever person that this world have 
  
 ## 📫 How to Reach Me
 
-* Website: [jorgemunozl.github.io](https://jorgemunozl.github.io)
 * Email: [alvaro18ml@gmail.com](mailto:alvaro18ml@gmail.com)
 
 ["It has to do with curiosity, it has to do with people wondering what make something do something"](https://www.youtube.com/watch?v=JbesmfdUMkw)
