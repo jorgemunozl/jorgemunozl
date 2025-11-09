@@ -11,6 +11,7 @@ I like STEM, adore a [Feynman a-like thinking](https://archive.org/details/surel
 * 🍅 *Pomodoro Lover* [(Strongly Recommended)](https://www.youtube.com/watch?v=sUwD3GRPJos)
 * 🐧 Linux User : [Arch - I3](https://github.com/jorgemunozl/arch-i3-setup.git), Ubuntu Xorg.
 * 🔮 Obsessed with the note-taking [Zettelkasten method](https://www.youtube.com/watch?v=E6ySG7xYgjY).
+* 🥴 Blogging [jorgemunozl.github.io](https://jorgemunozl.github.io)
 
 Richard Feynman playing the bongos, the most clever person that this world have ever known ! ->
 
