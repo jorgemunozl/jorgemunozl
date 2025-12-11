@@ -4,7 +4,7 @@
 
 I like STEM, adore a [Feynman a-like thinking](https://archive.org/details/surely-you-re-joking-mister-feynman-richard-feynman/page/10/mode/2up) . I don't disgust combining **mathematics** with **programming** to solve any kind of problems, modeling, abstract and **get fun**. (Duh).
 
-<a> <img src="feynman-bongos.jpg" alt="Feynman and the bongos" width="120" align="right"/> </a>
+<a> <img src="feynman-bongos.jpg" alt="Feynman and the bongos" width="155" align="right"/> </a>
 * 🌱 I’m currently exploring [Neural Operators and variants](https://camlab-ethz.github.io/ai4s-course/)
 * 🤔 I enjoy think and *theoretical* challenges as much as hands‑on coding. 
 * ♟️ I *love/hate* chess. [Let's play a game!](https://www.chess.com/member/jorgemunozl).
