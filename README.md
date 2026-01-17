@@ -39,7 +39,15 @@ Richard Feynman playing the bongos, the most clever person that this world has e
 
 ["It has to do with curiosity, it has to do with people wondering what make something do something"](https://www.youtube.com/watch?v=JbesmfdUMkw)
 
-
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=jorgemunozl&theme=one_dark_pro&hide_border=false)<br/>`
 
+<picture>
+  <source 
+    srcset="https://github-readme-stats-gamma-lilac.vercel.app//api?username=jorgemunozl&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://github-readme-stats-gamma-lilac.vercel.app/api?username=jorgemunozl&show_icons=true&theme=default&bg_color=F6F8FA&hide_border=true" 
+    height="190" 
+    alt="GitHub Stats" />
+</picture>``
